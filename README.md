@@ -43,7 +43,7 @@ This homework is graded based on the following criteria:
 
 ### Technical Acceptance Criteria: 40%
 
-* Satisfies all of the above acceptance criteria plus the following:
+* Satisfies all of the above acceptance criteria plus the following: 
 
   * Uses a date utility library to work with date and time
 
@@ -81,7 +81,7 @@ This homework is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application
+* The URL of the deployed application : https://ausamindec.github.io/Week-5/
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
